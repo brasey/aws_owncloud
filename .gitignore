@@ -3,3 +3,4 @@ terraform.tfstate
 terraform.tfstate.backup
 terraform.tfvars
 ops/files_to_provision/owncloud.yaml
+terraform.log
