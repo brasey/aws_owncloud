@@ -16,6 +16,7 @@ node default {
   package { [
     'owncloud',
     'mod_ssl',
+    'cyrus-sasl-plain',
     'php-pecl-apc',
     'php-mysql',
     'mod_xsendfile',
